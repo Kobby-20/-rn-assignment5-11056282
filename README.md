@@ -25,7 +25,3 @@ A state variable isDarkMode is used to track the current theme. Conditional styl
 Styles
 Styles are defined using StyleSheet.create and applied conditionally based on the isDarkMode state. 
 
-![HomeScreen Lightmode](https://github.com/PAA-KWASI08/rn-assignment5-11146019/assets/170183141/4bccd94f-daa7-42b6-ad63-06485f9a4f52)
-![HomeScreen Dark mode](https://github.com/PAA-KWASI08/rn-assignment5-11146019/assets/170183141/e47692ae-34ed-4318-a4ba-f4420e0f2790)
-![Settings Screen light mode](https://github.com/PAA-KWASI08/rn-assignment5-11146019/assets/170183141/db86ae19-a691-40ef-934e-917708d2e6c4)
-![Setting Screen Dark mode](https://github.com/PAA-KWASI08/rn-assignment5-11146019/assets/170183141/61df7b8b-6ea4-43a6-a65c-329f6d0ed796)
